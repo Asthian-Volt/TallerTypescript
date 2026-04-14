@@ -1,4 +1,3 @@
-// Tipos que describen la forma del JSON
 interface Personaje {
   nombre: string;
   descripcion: string;
@@ -13,7 +12,7 @@ interface DatosJuego {
   personajes: Personaje[];
 }
 
-// Crea la card HTML de un personaje
+// Función encargada de crear la card HTML de un personaje
 function crearCardPersonaje(personaje: Personaje): string {
   return `
     <div class="col">

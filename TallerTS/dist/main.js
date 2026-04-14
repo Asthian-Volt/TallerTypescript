@@ -8,7 +8,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
         step((generator = generator.apply(thisArg, _arguments || [])).next());
     });
 };
-// Crea la card HTML de un personaje
+// Función encargada de crear la card HTML de un personaje
 function crearCardPersonaje(personaje) {
     return `
     <div class="col">
