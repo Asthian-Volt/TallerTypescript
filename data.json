@@ -1,0 +1,38 @@
+{
+  "titulo": "Warcraft 3",
+  "descripcion": "Warcraft 3 es un juego de estrategia en tiempo real desarrollado por Blizzard Entertainment.",
+  "descripcionLarga": "El juego consiste en administrar los recursos disponibles (oro, madera y alimento) para producir unidades militares y desarrollar un ejército que dirigir en contra de los oponentes hasta destruir todos sus edificios. El juego provee varias estrategias de ataque o defensa, y se ejecutan las tácticas de combate y producción a partir de cuatro diferentes tipos de civilizaciones, llamadas «razas», que protagonizan el juego: humanos, orcos, elfos nocturnos y muertos vivientes. Cada una de estas razas es comandada a su vez por tres clases de héroes que encabezan y apoyan significativamente las batallas ante sus adversarios.",
+  "imagenPortada": "https://i.pinimg.com/736x/74/24/05/742405bb7851519074b69cdfac303615.jpg",
+  "personajes": [
+    {
+      "nombre": "Arthas Menethil",
+      "descripcion": "Príncipe de Lordaeron, se convierte en el Rey Exánime después de ser corrompido por la espada maldita Frostmourne.",
+      "imagen": "https://th.bing.com/th/id/R.88d6d2e5c86bf7dd0799f005c4cd6c75?rik=QHE6kuVIkFUnXg&pid=ImgRaw&r=0"
+    },
+    {
+      "nombre": "Thrall",
+      "descripcion": "Líder de los orcos, un chamán que busca la redención de su pueblo y la paz entre las razas.",
+      "imagen": "https://tse1.mm.bing.net/th/id/OIP.wchh_FTkGEeURA8JVTHZwAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "nombre": "Illidan Stormrage",
+      "descripcion": "Un elfo nocturno que se convierte en un cazador de demonios después de consumir el poder de la Legión Ardiente.",
+      "imagen": "https://i.pinimg.com/originals/ae/e7/2d/aee72df54233f06bda4e92873ff3f9e6.jpg"
+    },
+    {
+      "nombre": "Kel'Thuzad",
+      "descripcion": "Un poderoso hechicero no-muerto que sirve al Rey Exánime y es uno de los principales antagonistas del juego.",
+      "imagen": "https://th.bing.com/th/id/R.8740ddbb6188cd6517fd11083b621d58?rik=J7QcpW5K2lkzfQ&pid=ImgRaw&r=0"
+    },
+    {
+      "nombre": "Jaina Proudmoore",
+      "descripcion": "Una poderosa maga humana y líder de la ciudad de Theramore, que lucha por proteger a su pueblo y mantener la paz.",
+      "imagen": "https://tse4.mm.bing.net/th/id/OIP.dNYH-wY7ZMbMzDVn5w2VnwHaL0?rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "nombre": "Kael'thas Sunstrider",
+      "descripcion": "Kael'thas fue el príncipe de Quel'Thalas, el último de la Casa Sunstrider y miembro destacado del Kirin Tor. Tras la caída de Quel'Thalas, lideró a los supervivientes de su pueblo al servicio de la Alianza.",
+      "imagen": "https://tse2.mm.bing.net/th/id/OIP._K-NpZE95DKpe7EtHFZ1PwHaEW?w=1166&h=685&rs=1&pid=ImgDetMain&o=7&rm=3"
+    }
+  ]
+}

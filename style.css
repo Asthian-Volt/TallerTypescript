@@ -1,0 +1,48 @@
+h1{
+    color: red;
+    font-size: 12px;
+    text-align: center;
+}
+
+body{
+    background-color: black;
+}
+
+p {
+  font-family: Georgia, serif;
+  color: #444;
+}
+
+table{
+    background-color: white;
+    border: 1px solid #ccc;
+    width: 100%;
+}
+
+table th{
+    background-color: navy;
+    padding: 8px;
+    text-align: center;
+}
+table td{
+    background-color: gray;
+    padding: 8px;
+    text-align: center;
+}
+
+.tablaEspecial{
+    padding-top: 20px;
+    background-color: gray;
+    border: 1px solid gray;
+    width: 100%;
+}
+
+.tablaEspecial th{
+    background-color: green;
+}
+
+.tablaEspecial th p{
+    color: wheat
+}
+
+
